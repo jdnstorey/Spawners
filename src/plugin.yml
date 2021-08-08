@@ -1,0 +1,8 @@
+name: Spawner
+main: me.blackthunder.spawner.Spawner
+version: 1.0
+api-version: 1.15
+author: BlackThunder
+
+commands:
+  spawner:
